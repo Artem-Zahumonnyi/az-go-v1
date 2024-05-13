@@ -1,0 +1,1 @@
+1. Application az-go-v1 has been successfully deployed!!
